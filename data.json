@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-04-23 07:56 UTC",
+  "updated_at": "2026-04-24 08:06 UTC",
   "top10_daily": [
     {
       "rank": 1,
-      "name": "Motorola Edge 70 Pro",
-      "url": "https://www.gsmarena.com/motorola_edge_70_pro-14620.php",
-      "value": "22,420",
+      "name": "Honor 600 Pro",
+      "url": "https://www.gsmarena.com/honor_600_pro-14604.php",
+      "value": "23,182",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "22,214",
+      "value": "21,734",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Honor 600 Pro",
-      "url": "https://www.gsmarena.com/honor_600_pro-14604.php",
-      "value": "22,019",
+      "name": "Samsung Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
+      "value": "18,107",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Samsung Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "18,166",
+      "name": "Oppo Find X9 Ultra",
+      "url": "https://www.gsmarena.com/oppo_find_x9_ultra-14548.php",
+      "value": "17,471",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Oppo Find X9 Ultra",
-      "url": "https://www.gsmarena.com/oppo_find_x9_ultra-14548.php",
-      "value": "15,701",
+      "name": "Motorola Edge 70 Pro",
+      "url": "https://www.gsmarena.com/motorola_edge_70_pro-14620.php",
+      "value": "15,903",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Huawei Pura 90 Pro Max",
-      "url": "https://www.gsmarena.com/huawei_pura_90_pro_max-14609.php",
-      "value": "14,522",
+      "name": "Xiaomi Poco X8 Pro Max",
+      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro_max-14507.php",
+      "value": "14,031",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Xiaomi Poco X8 Pro Max",
-      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro_max-14507.php",
-      "value": "14,302",
+      "name": "Apple iPhone 17 Pro Max",
+      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+      "value": "12,920",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "vivo X300 FE",
-      "url": "https://www.gsmarena.com/vivo_x300_fe-14491.php",
-      "value": "13,730",
+      "name": "Honor 600",
+      "url": "https://www.gsmarena.com/honor_600-14605.php",
+      "value": "12,826",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "Xiaomi Poco X8 Pro",
-      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro-14506.php",
-      "value": "12,961",
+      "name": "vivo X300 FE",
+      "url": "https://www.gsmarena.com/vivo_x300_fe-14491.php",
+      "value": "12,809",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Apple iPhone 17 Pro Max",
-      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "12,957",
+      "name": "Xiaomi Poco X8 Pro",
+      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro-14506.php",
+      "value": "12,756",
       "label": "Daily Hits"
     }
   ],
@@ -91,7 +91,7 @@
       "rank": 3,
       "name": "Xiaomi 15 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_15_ultra-13657.php",
-      "value": "673",
+      "value": "674",
       "label": "Favorites"
     },
     {
@@ -119,14 +119,14 @@
       "rank": 7,
       "name": "Samsung Galaxy S25",
       "url": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
-      "value": "540",
+      "value": "541",
       "label": "Favorites"
     },
     {
       "rank": 8,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "515",
+      "value": "516",
       "label": "Favorites"
     },
     {
@@ -162,20 +162,20 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=6638&idPhone2=6639"
     },
     {
-      "name": "Xiaomi Poco X8 Pro 5G vs. Poco X8 Pro Max 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14506&idPhone2=14507"
-    },
-    {
       "name": "Samsung Galaxy S25 FE 5G vs. Galaxy A57 5G",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14042&idPhone2=14379"
     },
     {
-      "name": "Samsung Galaxy S25 vs. Galaxy S26 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
+      "name": "Xiaomi Poco X8 Pro 5G vs. Poco X8 Pro Max 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14506&idPhone2=14507"
     },
     {
       "name": "vivo X300 Ultra 5G vs. Find X9 Ultra 5G",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14388&idPhone2=14548"
+    },
+    {
+      "name": "Samsung Galaxy S25 vs. Galaxy S26 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
     },
     {
       "name": "Apple iPhone 17 Pro Max vs. Galaxy S26 Ultra 5G",
