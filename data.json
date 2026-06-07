@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-06-06 08:34 UTC",
+  "updated_at": "2026-06-07 08:57 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Xiaomi 17T Pro",
       "url": "https://www.gsmarena.com/xiaomi_17t_pro-14651.php",
-      "value": "24,565",
+      "value": "23,277",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Xiaomi 17T",
       "url": "https://www.gsmarena.com/xiaomi_17t-14652.php",
-      "value": "18,707",
+      "value": "18,120",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "17,749",
+      "value": "18,014",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Motorola Edge 70 Pro+",
-      "url": "https://www.gsmarena.com/motorola_edge_70_pro+-14702.php",
-      "value": "17,586",
+      "name": "Samsung Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
+      "value": "16,877",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Samsung Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,838",
+      "name": "Motorola Edge 70 Pro+",
+      "url": "https://www.gsmarena.com/motorola_edge_70_pro+-14702.php",
+      "value": "16,236",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
       "name": "Samsung Galaxy A17",
       "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "14,058",
+      "value": "14,182",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "12,234",
+      "value": "12,270",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Xiaomi Poco X8 Pro",
-      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro-14506.php",
-      "value": "11,401",
+      "name": "Xiaomi Redmi Note 15",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
+      "value": "11,530",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "Xiaomi Redmi Note 15",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
-      "value": "11,342",
+      "name": "Xiaomi Poco X8 Pro",
+      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro-14506.php",
+      "value": "11,471",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Motorola Edge (2026)",
-      "url": "https://www.gsmarena.com/motorola_edge_(2026)-14705.php",
-      "value": "10,777",
+      "name": "Apple iPhone 17",
+      "url": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+      "value": "10,303",
       "label": "Daily Hits"
     }
   ],
@@ -133,7 +133,7 @@
       "rank": 9,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "471",
+      "value": "472",
       "label": "Favorites"
     },
     {
