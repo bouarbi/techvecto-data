@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-06-08 10:58 UTC",
+  "updated_at": "2026-06-09 09:46 UTC",
   "top10_daily": [
     {
       "rank": 1,
-      "name": "Xiaomi 17T Pro",
-      "url": "https://www.gsmarena.com/xiaomi_17t_pro-14651.php",
-      "value": "22,578",
+      "name": "Apple iPhone 18 Pro Max",
+      "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
+      "value": "68,211",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
-      "name": "Samsung Galaxy A57",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "18,340",
+      "name": "Xiaomi 17T Pro",
+      "url": "https://www.gsmarena.com/xiaomi_17t_pro-14651.php",
+      "value": "21,350",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Xiaomi 17T",
-      "url": "https://www.gsmarena.com/xiaomi_17t-14652.php",
-      "value": "17,925",
+      "name": "Samsung Galaxy A57",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
+      "value": "18,125",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Samsung Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "17,109",
+      "name": "Xiaomi 17T",
+      "url": "https://www.gsmarena.com/xiaomi_17t-14652.php",
+      "value": "17,239",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Motorola Edge 70 Pro+",
-      "url": "https://www.gsmarena.com/motorola_edge_70_pro+-14702.php",
-      "value": "15,557",
+      "name": "Samsung Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
+      "value": "16,995",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Samsung Galaxy A17",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "14,460",
+      "name": "Motorola Edge 70 Pro+",
+      "url": "https://www.gsmarena.com/motorola_edge_70_pro+-14702.php",
+      "value": "14,383",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Apple iPhone 17 Pro Max",
-      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "12,512",
+      "name": "Samsung Galaxy A17",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
+      "value": "14,314",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Xiaomi Redmi Note 15",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
-      "value": "11,715",
+      "name": "Apple iPhone 17 Pro Max",
+      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+      "value": "12,716",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "Xiaomi Poco X8 Pro",
-      "url": "https://www.gsmarena.com/xiaomi_poco_x8_pro-14506.php",
-      "value": "11,505",
+      "name": "Xiaomi Redmi K100 Pro",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_k100_pro-14715.php",
+      "value": "12,643",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Apple iPhone 17",
-      "url": "https://www.gsmarena.com/apple_iphone_17-14050.php",
-      "value": "10,427",
+      "name": "Xiaomi Redmi Note 15",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
+      "value": "11,597",
       "label": "Daily Hits"
     }
   ],
@@ -84,42 +84,42 @@
       "rank": 2,
       "name": "Xiaomi 15 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_15_ultra-13657.php",
-      "value": "677",
+      "value": "676",
       "label": "Favorites"
     },
     {
       "rank": 3,
       "name": "Xiaomi Poco X7 Pro",
       "url": "https://www.gsmarena.com/xiaomi_poco_x7_pro-13582.php",
-      "value": "646",
+      "value": "648",
       "label": "Favorites"
     },
     {
       "rank": 4,
       "name": "Xiaomi 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_17_pro_max-14181.php",
-      "value": "624",
+      "value": "623",
       "label": "Favorites"
     },
     {
       "rank": 5,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "601",
+      "value": "600",
       "label": "Favorites"
     },
     {
       "rank": 6,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "585",
+      "value": "587",
       "label": "Favorites"
     },
     {
       "rank": 7,
       "name": "Samsung Galaxy S25",
       "url": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
-      "value": "554",
+      "value": "555",
       "label": "Favorites"
     },
     {
@@ -146,20 +146,16 @@
   ],
   "popular_comparisons": [
     {
-      "name": "Xiaomi 17T Pro 5G vs. Xiaomi 17T 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14651&idPhone2=14652"
-    },
-    {
       "name": "Xiaomi Poco X8 Pro 5G vs. Poco X8 Pro Max 5G",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14506&idPhone2=14507"
     },
     {
-      "name": "Samsung Galaxy A56 vs. Galaxy A57 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13603&idPhone2=14379"
+      "name": "Xiaomi 17T Pro 5G vs. Xiaomi 17T 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14651&idPhone2=14652"
     },
     {
-      "name": "Xiaomi 15T Pro 5G vs. Xiaomi 17T Pro 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14178&idPhone2=14651"
+      "name": "Samsung Galaxy A56 vs. Galaxy A57 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13603&idPhone2=14379"
     },
     {
       "name": "Infinix Smart 10 Plus vs. Galaxy A07",
@@ -168,6 +164,10 @@
     {
       "name": "Samsung Galaxy S25 Ultra vs. Galaxy S26 Ultra 5G",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13322&idPhone2=14320"
+    },
+    {
+      "name": "Xiaomi 15T Pro 5G vs. Xiaomi 17T Pro 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14178&idPhone2=14651"
     },
     {
       "name": "Samsung Galaxy S25 vs. Galaxy S26 5G",
