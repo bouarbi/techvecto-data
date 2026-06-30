@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-06-29 11:01 UTC",
+  "updated_at": "2026-06-30 09:37 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "18,757",
+      "value": "18,680",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
-      "name": "Samsung Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,523",
+      "name": "Samsung Galaxy M47",
+      "url": "https://www.gsmarena.com/samsung_galaxy_m47-14749.php",
+      "value": "17,262",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Samsung Galaxy M47",
-      "url": "https://www.gsmarena.com/samsung_galaxy_m47-14749.php",
-      "value": "15,332",
+      "name": "Samsung Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
+      "value": "16,174",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "15,026",
+      "value": "14,905",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Samsung Galaxy A17",
       "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "14,364",
+      "value": "14,073",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
       "name": "Samsung Galaxy A27",
       "url": "https://www.gsmarena.com/samsung_galaxy_a27-14606.php",
-      "value": "12,426",
+      "value": "12,665",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "12,239",
+      "value": "12,060",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "ZTE nubia Air Pro",
-      "url": "https://www.gsmarena.com/zte_nubia_air_pro-14754.php",
-      "value": "12,103",
+      "name": "Xiaomi Redmi Note 15",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
+      "value": "11,225",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Xiaomi 17T Pro",
       "url": "https://www.gsmarena.com/xiaomi_17t_pro-14651.php",
-      "value": "11,444",
+      "value": "11,183",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Xiaomi Redmi Note 15",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
-      "value": "11,218",
+      "name": "Xiaomi Redmi K90 Ultra",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_k90_ultra-14757.php",
+      "value": "11,156",
       "label": "Daily Hits"
     }
   ],
@@ -91,7 +91,7 @@
       "rank": 3,
       "name": "Xiaomi 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_17_pro_max-14181.php",
-      "value": "626",
+      "value": "628",
       "label": "Favorites"
     },
     {
@@ -112,7 +112,7 @@
       "rank": 6,
       "name": "Samsung Galaxy S25",
       "url": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
-      "value": "561",
+      "value": "562",
       "label": "Favorites"
     },
     {
@@ -126,14 +126,14 @@
       "rank": 8,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "477",
+      "value": "478",
       "label": "Favorites"
     },
     {
       "rank": 9,
       "name": "Oppo Find X9 Pro",
       "url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
-      "value": "474",
+      "value": "475",
       "label": "Favorites"
     },
     {
@@ -170,12 +170,12 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13317&idPhone2=14050"
     },
     {
-      "name": "Xiaomi 17T Pro 5G vs. Xiaomi 17T 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14651&idPhone2=14652"
-    },
-    {
       "name": "Apple iPhone 17 Pro vs. Apple iPhone 17",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14049&idPhone2=14050"
+    },
+    {
+      "name": "Xiaomi 17T Pro 5G vs. Xiaomi 17T 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14651&idPhone2=14652"
     },
     {
       "name": "Apple iPhone 17 Pro Max vs. iPhone 17 Pro",
