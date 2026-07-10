@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-07-09 09:40 UTC",
+  "updated_at": "2026-07-10 09:36 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Nothing Phone (4b)",
       "url": "https://www.gsmarena.com/nothing_phone_(4b)-14781.php",
-      "value": "20,945",
+      "value": "19,723",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
-      "name": "Samsung Galaxy M47",
-      "url": "https://www.gsmarena.com/samsung_galaxy_m47-14749.php",
-      "value": "18,612",
+      "name": "Samsung Galaxy A57",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
+      "value": "17,894",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Samsung Galaxy A57",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "18,118",
+      "name": "Samsung Galaxy M47",
+      "url": "https://www.gsmarena.com/samsung_galaxy_m47-14749.php",
+      "value": "17,069",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "16,304",
+      "value": "16,151",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,008",
+      "value": "16,000",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
       "name": "Samsung Galaxy A27",
       "url": "https://www.gsmarena.com/samsung_galaxy_a27-14606.php",
-      "value": "14,751",
+      "value": "14,360",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Samsung Galaxy A17",
       "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "14,207",
+      "value": "14,121",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "12,301",
+      "value": "12,282",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Xiaomi Redmi Note 15",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
-      "value": "11,945",
+      "value": "11,979",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Xiaomi Redmi K90 Ultra",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_k90_ultra-14757.php",
-      "value": "11,124",
+      "name": "OnePlus N6",
+      "url": "https://www.gsmarena.com/oneplus_n6-14760.php",
+      "value": "10,203",
       "label": "Daily Hits"
     }
   ],
@@ -77,7 +77,7 @@
       "rank": 1,
       "name": "Xiaomi 15 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_15_ultra-13657.php",
-      "value": "684",
+      "value": "685",
       "label": "Favorites"
     },
     {
@@ -91,14 +91,14 @@
       "rank": 3,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "621",
+      "value": "622",
       "label": "Favorites"
     },
     {
       "rank": 4,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "618",
+      "value": "619",
       "label": "Favorites"
     },
     {
