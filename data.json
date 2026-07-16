@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-07-15 08:11 UTC",
+  "updated_at": "2026-07-16 08:14 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Xiaomi Redmi Note 17 Pro (China)",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_(china)-14797.php",
-      "value": "26,080",
+      "value": "19,770",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "18,004",
+      "value": "17,801",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "16,882",
+      "value": "16,967",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Samsung Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,038",
+      "name": "Motorola Edge 70 Max",
+      "url": "https://www.gsmarena.com/motorola_edge_70_max-14789.php",
+      "value": "16,880",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Motorola Edge 70 Max",
-      "url": "https://www.gsmarena.com/motorola_edge_70_max-14789.php",
-      "value": "15,536",
+      "name": "Samsung Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
+      "value": "15,962",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Xiaomi Redmi Note 17 (China)",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_(china)-14798.php",
-      "value": "15,162",
+      "name": "Huawei Pura 90s Pro Max",
+      "url": "https://www.gsmarena.com/huawei_pura_90s_pro_max-14794.php",
+      "value": "14,913",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Huawei Pura 90s Pro Max",
-      "url": "https://www.gsmarena.com/huawei_pura_90s_pro_max-14794.php",
-      "value": "14,675",
+      "name": "Samsung Galaxy A17",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
+      "value": "13,834",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Google Pixel 11 Pro XL",
-      "url": "https://www.gsmarena.com/google_pixel_11_pro_xl-14800.php",
-      "value": "14,658",
+      "name": "Xiaomi Redmi Note 17 (China)",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_(china)-14798.php",
+      "value": "13,681",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "Samsung Galaxy A17",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "13,962",
+      "name": "Google Pixel 11 Pro XL",
+      "url": "https://www.gsmarena.com/google_pixel_11_pro_xl-14800.php",
+      "value": "12,477",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Nothing Phone (4b)",
-      "url": "https://www.gsmarena.com/nothing_phone_(4b)-14781.php",
-      "value": "13,489",
+      "name": "Xiaomi Redmi Note 15",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
+      "value": "12,250",
       "label": "Daily Hits"
     }
   ],
@@ -105,7 +105,7 @@
       "rank": 5,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "501",
+      "value": "500",
       "label": "Favorites"
     },
     {
@@ -158,12 +158,12 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
     },
     {
-      "name": "Apple iPhone 16 vs. Apple iPhone 17",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13317&idPhone2=14050"
-    },
-    {
       "name": "Apple iPhone 17 Pro vs. Apple iPhone 17",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14049&idPhone2=14050"
+    },
+    {
+      "name": "Apple iPhone 16 vs. Apple iPhone 17",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13317&idPhone2=14050"
     },
     {
       "name": "Samsung Galaxy A37 5G vs. Galaxy A57 5G",
