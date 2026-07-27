@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-07-26 08:27 UTC",
+  "updated_at": "2026-07-27 09:52 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Samsung Galaxy Z Fold8",
       "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8-14673.php",
-      "value": "30,896",
+      "value": "33,580",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Xiaomi Redmi Note 17 Pro (China)",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_(china)-14797.php",
-      "value": "29,563",
+      "value": "24,474",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "Samsung Galaxy Z Fold8 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra-14802.php",
-      "value": "22,575",
+      "value": "24,440",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "18,860",
+      "value": "19,594",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,194",
+      "value": "16,434",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "16,102",
+      "value": "16,242",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Samsung Galaxy A17",
       "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "13,384",
+      "value": "13,522",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "12,139",
+      "value": "12,353",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Xiaomi Redmi Note 15",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
-      "value": "11,498",
+      "value": "11,403",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Xiaomi Redmi Note 15 Pro",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15_pro-14327.php",
-      "value": "9,756",
+      "name": "Samsung Galaxy Z Flip8",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8-14803.php",
+      "value": "10,304",
       "label": "Daily Hits"
     }
   ],
@@ -77,14 +77,14 @@
       "rank": 1,
       "name": "Xiaomi 15 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_15_ultra-13657.php",
-      "value": "686",
+      "value": "687",
       "label": "Favorites"
     },
     {
       "rank": 2,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "645",
+      "value": "647",
       "label": "Favorites"
     },
     {
@@ -98,14 +98,14 @@
       "rank": 4,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "630",
+      "value": "631",
       "label": "Favorites"
     },
     {
       "rank": 5,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "505",
+      "value": "506",
       "label": "Favorites"
     },
     {
@@ -133,7 +133,7 @@
       "rank": 9,
       "name": "vivo X200 Ultra",
       "url": "https://www.gsmarena.com/vivo_x200_ultra-13762.php",
-      "value": "439",
+      "value": "440",
       "label": "Favorites"
     },
     {
@@ -182,8 +182,8 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13964&idPhone2=14049"
     },
     {
-      "name": "Samsung Galaxy A37 5G vs. Galaxy A57 5G",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14378&idPhone2=14379"
+      "name": "Apple iPhone 17 Pro Max vs. iPhone 18 Pro Max 5G",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13964&idPhone2=14716"
     }
   ]
 }
