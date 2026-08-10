@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-08-09 06:57 UTC",
+  "updated_at": "2026-08-10 07:42 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "24,711",
+      "value": "24,961",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,546",
+      "value": "16,771",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "15,946",
+      "value": "16,031",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Xiaomi Redmi Note 17 Pro Max",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
-      "value": "15,387",
+      "name": "Samsung Galaxy F70 Pro",
+      "url": "https://www.gsmarena.com/samsung_galaxy_f70_pro-14856.php",
+      "value": "13,749",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Samsung Galaxy F70 Pro",
-      "url": "https://www.gsmarena.com/samsung_galaxy_f70_pro-14856.php",
-      "value": "14,490",
+      "name": "Samsung Galaxy A17",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
+      "value": "13,447",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Samsung Galaxy A17",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "13,319",
+      "name": "Apple iPhone 17 Pro Max",
+      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+      "value": "13,164",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Apple iPhone 17 Pro Max",
-      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "13,109",
+      "name": "Xiaomi Redmi Note 17 Pro Max",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
+      "value": "13,127",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Samsung Galaxy Z Fold8",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8-14673.php",
-      "value": "11,783",
+      "name": "Xiaomi Redmi Note 15",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
+      "value": "11,506",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "Xiaomi Redmi Note 15",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14328.php",
-      "value": "11,445",
+      "name": "Samsung Galaxy Z Fold8",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8-14673.php",
+      "value": "11,388",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
       "name": "vivo S2",
       "url": "https://www.gsmarena.com/vivo_s2-14839.php",
-      "value": "10,955",
+      "value": "11,119",
       "label": "Daily Hits"
     }
   ],
@@ -77,7 +77,7 @@
       "rank": 1,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "662",
+      "value": "664",
       "label": "Favorites"
     },
     {
@@ -91,14 +91,14 @@
       "rank": 3,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "638",
+      "value": "639",
       "label": "Favorites"
     },
     {
       "rank": 4,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "512",
+      "value": "511",
       "label": "Favorites"
     },
     {
@@ -112,7 +112,7 @@
       "rank": 6,
       "name": "Oppo Find X9 Pro",
       "url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
-      "value": "488",
+      "value": "487",
       "label": "Favorites"
     },
     {
@@ -133,14 +133,14 @@
       "rank": 9,
       "name": "Sony Xperia 1 VII",
       "url": "https://www.gsmarena.com/sony_xperia_1_vii-13843.php",
-      "value": "389",
+      "value": "390",
       "label": "Favorites"
     },
     {
       "rank": 10,
       "name": "Honor Magic8 Pro",
       "url": "https://www.gsmarena.com/honor_magic8_pro-14231.php",
-      "value": "380",
+      "value": "379",
       "label": "Favorites"
     }
   ],
@@ -150,12 +150,12 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13322&idPhone2=14320"
     },
     {
-      "name": "Apple Watch Ultra 2 vs. Watch Ultra 3",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=12560&idPhone2=14130"
-    },
-    {
       "name": "Apple iPhone 17 Pro Max vs. iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13964&idPhone2=14716"
+    },
+    {
+      "name": "Apple Watch Ultra 2 vs. Watch Ultra 3",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=12560&idPhone2=14130"
     },
     {
       "name": "Samsung Galaxy Z Fold8 vs. Galaxy Z Fold8 Ultra",
