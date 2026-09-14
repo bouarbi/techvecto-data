@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-09-13 11:14 UTC",
+  "updated_at": "2026-09-14 12:01 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "125,297",
+      "value": "128,713",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
-      "name": "Apple iPhone 18 Pro",
-      "url": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
-      "value": "67,832",
+      "name": "Apple iPhone Duo",
+      "url": "https://www.gsmarena.com/apple_iphone_duo-13804.php",
+      "value": "69,450",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Apple iPhone Duo",
-      "url": "https://www.gsmarena.com/apple_iphone_duo-13804.php",
-      "value": "65,861",
+      "name": "Apple iPhone 18 Pro",
+      "url": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
+      "value": "59,382",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Xiaomi 18 Fold",
       "url": "https://www.gsmarena.com/xiaomi_18_fold-14931.php",
-      "value": "27,611",
+      "value": "26,500",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "21,699",
+      "value": "21,857",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
       "name": "Xiaomi Poco F9 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_poco_f9_ultra-14876.php",
-      "value": "21,171",
+      "value": "20,013",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "19,075",
+      "value": "19,489",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
       "name": "Samsung Galaxy S26 FE",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe-14870.php",
-      "value": "17,002",
+      "value": "16,632",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Xiaomi Redmi Note 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
-      "value": "16,486",
+      "value": "16,375",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "15,545",
+      "value": "15,708",
       "label": "Daily Hits"
     }
   ],
@@ -98,7 +98,7 @@
       "rank": 4,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "529",
+      "value": "533",
       "label": "Favorites"
     },
     {
@@ -119,14 +119,14 @@
       "rank": 7,
       "name": "Xiaomi Poco F7",
       "url": "https://www.gsmarena.com/xiaomi_poco_f7-13951.php",
-      "value": "461",
+      "value": "462",
       "label": "Favorites"
     },
     {
       "rank": 8,
       "name": "vivo X200 Ultra",
       "url": "https://www.gsmarena.com/vivo_x200_ultra-13762.php",
-      "value": "445",
+      "value": "447",
       "label": "Favorites"
     },
     {
@@ -140,7 +140,7 @@
       "rank": 10,
       "name": "Honor Magic8 Pro",
       "url": "https://www.gsmarena.com/honor_magic8_pro-14231.php",
-      "value": "395",
+      "value": "396",
       "label": "Favorites"
     }
   ],
@@ -166,12 +166,12 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13804&idPhone2=14716"
     },
     {
-      "name": "Samsung Galaxy S25 Ultra vs. Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13322&idPhone2=14320"
-    },
-    {
       "name": "Apple iPhone 16 Pro Max vs. iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13123&idPhone2=14716"
+    },
+    {
+      "name": "Samsung Galaxy S25 Ultra vs. Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13322&idPhone2=14320"
     },
     {
       "name": "Samsung Galaxy S25 FE vs. Galaxy S26 FE",
@@ -182,8 +182,8 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14049&idPhone2=14716"
     },
     {
-      "name": "Xiaomi Poco F9 Ultra vs. Poco F9 Pro",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14876&idPhone2=14877"
+      "name": "Apple iPhone 15 Pro Max vs. iPhone 18 Pro Max",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=12548&idPhone2=14716"
     }
   ]
 }
