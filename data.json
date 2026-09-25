@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-09-24 11:15 UTC",
+  "updated_at": "2026-09-25 11:20 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Xiaomi 18 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
-      "value": "81,589",
+      "value": "86,705",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Motorola Signature 27",
       "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
-      "value": "73,938",
+      "value": "64,682",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "55,365",
+      "value": "54,074",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Xiaomi 18 Pro",
       "url": "https://www.gsmarena.com/xiaomi_18_pro-14959.php",
-      "value": "53,493",
+      "value": "44,913",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Xiaomi Redmi Note 17 Pro Max",
-      "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
-      "value": "21,935",
+      "name": "vivo X500 Pro Max",
+      "url": "https://www.gsmarena.com/vivo_x500_pro_max-14782.php",
+      "value": "21,010",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "vivo X500 Pro Max",
-      "url": "https://www.gsmarena.com/vivo_x500_pro_max-14782.php",
-      "value": "19,887",
+      "name": "Xiaomi Redmi Note 17 Pro Max",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
+      "value": "20,284",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "19,872",
+      "value": "19,896",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Oppo Find X10 Pro Max",
-      "url": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
-      "value": "16,565",
+      "name": "Honor X9e Pro",
+      "url": "https://www.gsmarena.com/honor_x9e_pro-14949.php",
+      "value": "17,614",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "Apple iPhone 18 Pro",
-      "url": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
-      "value": "16,329",
+      "name": "Oppo Find X10 Pro Max",
+      "url": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
+      "value": "17,244",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "Honor X9e Pro",
-      "url": "https://www.gsmarena.com/honor_x9e_pro-14949.php",
-      "value": "16,280",
+      "name": "Apple iPhone 18 Pro",
+      "url": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
+      "value": "16,139",
       "label": "Daily Hits"
     }
   ],
@@ -84,35 +84,35 @@
       "rank": 2,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "668",
+      "value": "669",
       "label": "Favorites"
     },
     {
       "rank": 3,
       "name": "Xiaomi 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_17_pro_max-14181.php",
-      "value": "646",
+      "value": "647",
       "label": "Favorites"
     },
     {
       "rank": 4,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "533",
+      "value": "532",
       "label": "Favorites"
     },
     {
       "rank": 5,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "505",
+      "value": "506",
       "label": "Favorites"
     },
     {
       "rank": 6,
       "name": "Oppo Find X9 Pro",
       "url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
-      "value": "500",
+      "value": "501",
       "label": "Favorites"
     },
     {
@@ -140,7 +140,7 @@
       "rank": 10,
       "name": "Honor Magic8 Pro",
       "url": "https://www.gsmarena.com/honor_magic8_pro-14231.php",
-      "value": "394",
+      "value": "396",
       "label": "Favorites"
     }
   ],
@@ -182,8 +182,8 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14456&idPhone2=14870"
     },
     {
-      "name": "Apple iPhone 15 Pro Max vs. iPhone 18 Pro Max",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=12548&idPhone2=14716"
+      "name": "Samsung Galaxy S25 vs. Galaxy S26",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
     }
   ]
 }
