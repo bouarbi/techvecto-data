@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-10-02 12:00 UTC",
+  "updated_at": "2026-10-03 11:13 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Xiaomi 18 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
-      "value": "51,853",
+      "value": "44,947",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "29,633",
+      "value": "27,717",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Huawei Mate 90 Pro Max",
-      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max-14982.php",
-      "value": "26,962",
+      "name": "Motorola Signature 27",
+      "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
+      "value": "20,397",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Motorola Signature 27",
-      "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
-      "value": "23,720",
+      "name": "Honor Magic9 Pro Max",
+      "url": "https://www.gsmarena.com/honor_magic9_pro_max-14940.php",
+      "value": "19,342",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Xiaomi 18 Pro",
-      "url": "https://www.gsmarena.com/xiaomi_18_pro-14959.php",
-      "value": "20,388",
+      "name": "Samsung Galaxy S26 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
+      "value": "17,997",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Huawei Mate 90 RS Ultimate",
-      "url": "https://www.gsmarena.com/huawei_mate_90_rs_ultimate-14985.php",
-      "value": "19,431",
+      "name": "vivo V80",
+      "url": "https://www.gsmarena.com/vivo_v80-14989.php",
+      "value": "17,268",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Honor Magic9 Pro Max",
-      "url": "https://www.gsmarena.com/honor_magic9_pro_max-14940.php",
-      "value": "18,507",
+      "name": "Xiaomi 18 Pro",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro-14959.php",
+      "value": "16,433",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Samsung Galaxy S26 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "18,369",
+      "name": "Samsung Galaxy A57",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
+      "value": "15,548",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Xiaomi Redmi Note 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
-      "value": "16,136",
+      "value": "15,288",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "vivo iQOO 16",
-      "url": "https://www.gsmarena.com/vivo_iqoo_16-14976.php",
-      "value": "15,882",
+      "name": "Huawei Mate 90 Pro Max",
+      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max-14982.php",
+      "value": "14,405",
       "label": "Daily Hits"
     }
   ],
@@ -77,21 +77,21 @@
       "rank": 1,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "731",
+      "value": "733",
       "label": "Favorites"
     },
     {
       "rank": 2,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "672",
+      "value": "674",
       "label": "Favorites"
     },
     {
       "rank": 3,
       "name": "Xiaomi 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_17_pro_max-14181.php",
-      "value": "648",
+      "value": "647",
       "label": "Favorites"
     },
     {
@@ -140,7 +140,7 @@
       "rank": 10,
       "name": "Xiaomi 17",
       "url": "https://www.gsmarena.com/xiaomi_17-14134.php",
-      "value": "388",
+      "value": "389",
       "label": "Favorites"
     }
   ],
