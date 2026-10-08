@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-10-07 12:47 UTC",
+  "updated_at": "2026-10-08 12:57 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Xiaomi 18 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
-      "value": "28,847",
+      "value": "27,015",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "22,724",
+      "value": "22,077",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "vivo V80",
       "url": "https://www.gsmarena.com/vivo_v80-14989.php",
-      "value": "18,807",
+      "value": "18,557",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "17,803",
+      "value": "18,038",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
-      "name": "Honor Magic9 Pro Max",
-      "url": "https://www.gsmarena.com/honor_magic9_pro_max-14940.php",
-      "value": "16,523",
+      "name": "Samsung Galaxy A57",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
+      "value": "15,691",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Samsung Galaxy A57",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "15,463",
+      "name": "Honor Magic9 Pro Max",
+      "url": "https://www.gsmarena.com/honor_magic9_pro_max-14940.php",
+      "value": "15,325",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
       "name": "Xiaomi Redmi Note 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max-14845.php",
-      "value": "13,102",
+      "value": "12,811",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
       "name": "Samsung Galaxy A17",
       "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "12,502",
+      "value": "12,724",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Motorola Signature 27",
       "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
-      "value": "12,025",
+      "value": "11,303",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
-      "name": "vivo iQOO 16",
-      "url": "https://www.gsmarena.com/vivo_iqoo_16-14976.php",
-      "value": "11,074",
+      "name": "Huawei Mate 90 Pro Max",
+      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max-14982.php",
+      "value": "9,854",
       "label": "Daily Hits"
     }
   ],
@@ -77,7 +77,7 @@
       "rank": 1,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "739",
+      "value": "740",
       "label": "Favorites"
     },
     {
@@ -91,14 +91,14 @@
       "rank": 3,
       "name": "Xiaomi 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_17_pro_max-14181.php",
-      "value": "650",
+      "value": "651",
       "label": "Favorites"
     },
     {
       "rank": 4,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "535",
+      "value": "536",
       "label": "Favorites"
     },
     {
@@ -140,7 +140,7 @@
       "rank": 10,
       "name": "Xiaomi 17",
       "url": "https://www.gsmarena.com/xiaomi_17-14134.php",
-      "value": "391",
+      "value": "392",
       "label": "Favorites"
     }
   ],
@@ -178,12 +178,12 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14042&idPhone2=14870"
     },
     {
-      "name": "Apple iPhone 18 Pro Max vs. 18 Pro Max",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14716&idPhone2=14958"
-    },
-    {
       "name": "Samsung Galaxy S26 vs. Galaxy S26 FE",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14456&idPhone2=14870"
+    },
+    {
+      "name": "Apple iPhone 18 Pro Max vs. 18 Pro Max",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14716&idPhone2=14958"
     }
   ]
 }
