@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-10-25 10:53 UTC",
+  "updated_at": "2026-10-26 12:24 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Oppo Find X10 Pro Max",
       "url": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
-      "value": "20,177",
+      "value": "22,189",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "18,655",
+      "value": "18,774",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "15,821",
+      "value": "16,052",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
       "name": "Samsung Galaxy A57",
       "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "15,041",
+      "value": "15,213",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Xiaomi 18 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
-      "value": "14,854",
+      "value": "15,079",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "OnePlus 16",
-      "url": "https://www.gsmarena.com/oneplus_16-14974.php",
-      "value": "13,181",
+      "name": "Apple iPhone Duo",
+      "url": "https://www.gsmarena.com/apple_iphone_duo-13804.php",
+      "value": "12,979",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Samsung Galaxy A17",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "12,420",
+      "name": "OnePlus 16",
+      "url": "https://www.gsmarena.com/oneplus_16-14974.php",
+      "value": "12,953",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Apple iPhone Duo",
-      "url": "https://www.gsmarena.com/apple_iphone_duo-13804.php",
-      "value": "12,101",
+      "name": "Samsung Galaxy A17",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
+      "value": "12,624",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Honor X9e Pro",
       "url": "https://www.gsmarena.com/honor_x9e_pro-14949.php",
-      "value": "11,679",
+      "value": "12,074",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
       "name": "Oppo Find X10",
       "url": "https://www.gsmarena.com/oppo_find_x10-14953.php",
-      "value": "11,220",
+      "value": "11,728",
       "label": "Daily Hits"
     }
   ],
@@ -77,14 +77,14 @@
       "rank": 1,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "756",
+      "value": "755",
       "label": "Favorites"
     },
     {
       "rank": 2,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "684",
+      "value": "686",
       "label": "Favorites"
     },
     {
@@ -98,28 +98,28 @@
       "rank": 4,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "543",
+      "value": "546",
       "label": "Favorites"
     },
     {
       "rank": 5,
       "name": "Oppo Find X9 Pro",
       "url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
-      "value": "505",
+      "value": "507",
       "label": "Favorites"
     },
     {
       "rank": 6,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "503",
+      "value": "502",
       "label": "Favorites"
     },
     {
       "rank": 7,
       "name": "Xiaomi Poco F7",
       "url": "https://www.gsmarena.com/xiaomi_poco_f7-13951.php",
-      "value": "470",
+      "value": "471",
       "label": "Favorites"
     },
     {
@@ -131,16 +131,16 @@
     },
     {
       "rank": 9,
-      "name": "Honor Magic8 Pro",
-      "url": "https://www.gsmarena.com/honor_magic8_pro-14231.php",
+      "name": "Xiaomi 17",
+      "url": "https://www.gsmarena.com/xiaomi_17-14134.php",
       "value": "398",
       "label": "Favorites"
     },
     {
       "rank": 10,
-      "name": "Oppo Find X9 Ultra",
-      "url": "https://www.gsmarena.com/oppo_find_x9_ultra-14548.php",
-      "value": "396",
+      "name": "Honor Magic8 Pro",
+      "url": "https://www.gsmarena.com/honor_magic8_pro-14231.php",
+      "value": "398",
       "label": "Favorites"
     }
   ],
@@ -162,16 +162,16 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14716&idPhone2=14934"
     },
     {
-      "name": "Samsung Galaxy A56 vs. Galaxy A57",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13603&idPhone2=14379"
-    },
-    {
       "name": "Samsung Galaxy S26 Ultra vs. iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14320&idPhone2=14716"
     },
     {
       "name": "Samsung Galaxy S25 vs. Galaxy S26",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
+    },
+    {
+      "name": "Samsung Galaxy A56 vs. Galaxy A57",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13603&idPhone2=14379"
     },
     {
       "name": "Samsung Galaxy A37 vs. Galaxy A57",
