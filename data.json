@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-11-02 14:56 UTC",
+  "updated_at": "2026-11-03 13:44 UTC",
   "top10_daily": [
     {
       "rank": 1,
       "name": "Apple iPhone 18 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "17,194",
+      "value": "16,808",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "16,165",
+      "value": "16,082",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Oppo Find X10 Pro Max",
-      "url": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
-      "value": "15,025",
+      "name": "Samsung Galaxy A57",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
+      "value": "14,676",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Samsung Galaxy A57",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "14,845",
+      "name": "Oppo Find X10 Pro Max",
+      "url": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
+      "value": "13,861",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Xiaomi Poco X8s",
       "url": "https://www.gsmarena.com/xiaomi_poco_x8s-15038.php",
-      "value": "14,027",
+      "value": "13,755",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Nokia 2360 Flip",
-      "url": "https://www.gsmarena.com/nokia_2360_flip-15048.php",
-      "value": "13,178",
+      "name": "Motorola Signature 27",
+      "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
+      "value": "13,407",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Motorola Signature 27",
-      "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
-      "value": "12,889",
+      "name": "Xiaomi Redmi M100 Pro",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_m100_pro-15054.php",
+      "value": "12,989",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
-      "name": "Samsung Galaxy A17",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "12,508",
+      "name": "Nokia 2360 Flip",
+      "url": "https://www.gsmarena.com/nokia_2360_flip-15048.php",
+      "value": "12,389",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
-      "name": "OnePlus Ace 7 Pro",
-      "url": "https://www.gsmarena.com/oneplus_ace_7_pro-15045.php",
-      "value": "12,468",
+      "name": "Samsung Galaxy A17",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
+      "value": "12,334",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
       "name": "Xiaomi 18 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
-      "value": "12,381",
+      "value": "12,118",
       "label": "Daily Hits"
     }
   ],
@@ -84,7 +84,7 @@
       "rank": 2,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "689",
+      "value": "690",
       "label": "Favorites"
     },
     {
@@ -105,7 +105,7 @@
       "rank": 5,
       "name": "Oppo Find X9 Pro",
       "url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
-      "value": "508",
+      "value": "509",
       "label": "Favorites"
     },
     {
@@ -170,16 +170,16 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14378&idPhone2=14379"
     },
     {
-      "name": "Apple iPhone Duo vs. Galaxy Z Fold8",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13804&idPhone2=14673"
-    },
-    {
       "name": "Apple iPhone 18 Pro Max vs. iPhone 18 Pro",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14716&idPhone2=14934"
     },
     {
       "name": "Samsung Galaxy A56 vs. Galaxy A57",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13603&idPhone2=14379"
+    },
+    {
+      "name": "Apple iPhone Duo vs. Galaxy Z Fold8",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13804&idPhone2=14673"
     },
     {
       "name": "Samsung Galaxy S26 vs. Galaxy S26 FE",
