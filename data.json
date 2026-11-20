@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-11-19 15:21 UTC",
+  "updated_at": "2026-11-20 14:58 UTC",
   "top10_daily": [
     {
       "rank": 1,
-      "name": "Samsung Galaxy S27 Ultra",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultra-15075.php",
-      "value": "22,902",
+      "name": "Xiaomi 18 Pro Max",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
+      "value": "24,173",
       "label": "Daily Hits"
     },
     {
       "rank": 2,
-      "name": "Xiaomi 18 Pro Max",
-      "url": "https://www.gsmarena.com/xiaomi_18_pro_max-14958.php",
-      "value": "22,584",
+      "name": "Samsung Galaxy S27 Ultra",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultra-15075.php",
+      "value": "20,621",
       "label": "Daily Hits"
     },
     {
       "rank": 3,
-      "name": "Motorola Signature 27",
-      "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
-      "value": "15,343",
+      "name": "Apple iPhone 18 Pro Max",
+      "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
+      "value": "14,723",
       "label": "Daily Hits"
     },
     {
       "rank": 4,
-      "name": "Apple iPhone 18 Pro Max",
-      "url": "https://www.gsmarena.com/apple_iphone_18_pro_max-14716.php",
-      "value": "15,024",
+      "name": "Motorola Signature 27",
+      "url": "https://www.gsmarena.com/motorola_signature_27-14955.php",
+      "value": "14,425",
       "label": "Daily Hits"
     },
     {
       "rank": 5,
       "name": "Samsung Galaxy S26 Ultra",
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-14320.php",
-      "value": "14,549",
+      "value": "14,290",
       "label": "Daily Hits"
     },
     {
       "rank": 6,
-      "name": "Huawei Osta O1 Pro",
-      "url": "https://www.gsmarena.com/huawei_osta_o1_pro-15088.php",
-      "value": "14,528",
+      "name": "Samsung Galaxy A57",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
+      "value": "14,094",
       "label": "Daily Hits"
     },
     {
       "rank": 7,
-      "name": "Samsung Galaxy A57",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a57-14379.php",
-      "value": "14,251",
+      "name": "Huawei Osta O1 Pro",
+      "url": "https://www.gsmarena.com/huawei_osta_o1_pro-15088.php",
+      "value": "14,005",
       "label": "Daily Hits"
     },
     {
       "rank": 8,
       "name": "Xiaomi 18 Pro",
       "url": "https://www.gsmarena.com/xiaomi_18_pro-14959.php",
-      "value": "12,676",
+      "value": "13,492",
       "label": "Daily Hits"
     },
     {
       "rank": 9,
       "name": "Samsung Galaxy A17",
       "url": "https://www.gsmarena.com/samsung_galaxy_a17-14041.php",
-      "value": "11,501",
+      "value": "11,269",
       "label": "Daily Hits"
     },
     {
       "rank": 10,
       "name": "vivo V80",
       "url": "https://www.gsmarena.com/vivo_v80-14989.php",
-      "value": "9,756",
+      "value": "9,605",
       "label": "Daily Hits"
     }
   ],
@@ -84,35 +84,35 @@
       "rank": 2,
       "name": "OnePlus 15",
       "url": "https://www.gsmarena.com/oneplus_15-14206.php",
-      "value": "696",
+      "value": "697",
       "label": "Favorites"
     },
     {
       "rank": 3,
       "name": "Xiaomi 17 Pro Max",
       "url": "https://www.gsmarena.com/xiaomi_17_pro_max-14181.php",
-      "value": "655",
+      "value": "653",
       "label": "Favorites"
     },
     {
       "rank": 4,
       "name": "Xiaomi 17 Ultra",
       "url": "https://www.gsmarena.com/xiaomi_17_ultra-14380.php",
-      "value": "551",
+      "value": "552",
       "label": "Favorites"
     },
     {
       "rank": 5,
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
-      "value": "508",
+      "value": "507",
       "label": "Favorites"
     },
     {
       "rank": 6,
       "name": "Oppo Find X9 Pro",
       "url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
-      "value": "506",
+      "value": "505",
       "label": "Favorites"
     },
     {
@@ -126,7 +126,7 @@
       "rank": 8,
       "name": "Oppo Find X9 Ultra",
       "url": "https://www.gsmarena.com/oppo_find_x9_ultra-14548.php",
-      "value": "408",
+      "value": "409",
       "label": "Favorites"
     },
     {
@@ -140,7 +140,7 @@
       "rank": 10,
       "name": "Honor Magic8 Pro",
       "url": "https://www.gsmarena.com/honor_magic8_pro-14231.php",
-      "value": "402",
+      "value": "401",
       "label": "Favorites"
     }
   ],
@@ -154,6 +154,10 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13322&idPhone2=14320"
     },
     {
+      "name": "Xiaomi 18 Pro Max vs. Xiaomi 18 Pro",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14958&idPhone2=14959"
+    },
+    {
       "name": "Apple iPhone 17 Pro vs. iPhone 18 Pro",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14049&idPhone2=14934"
     },
@@ -162,28 +166,24 @@
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14378&idPhone2=14379"
     },
     {
-      "name": "Samsung Galaxy S25 vs. Galaxy S26",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
-    },
-    {
       "name": "Samsung Galaxy S26 vs. Galaxy S26 FE",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=14456&idPhone2=14870"
     },
     {
-      "name": "Xiaomi 18 Pro Max vs. Xiaomi 18 Pro",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14958&idPhone2=14959"
+      "name": "Samsung Galaxy S25 vs. Galaxy S26",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=13610&idPhone2=14456"
     },
     {
       "name": "Samsung Galaxy A56 vs. Galaxy A57",
       "url": "https://www.gsmarena.com/compare.php3?idPhone1=13603&idPhone2=14379"
     },
     {
-      "name": "Samsung Galaxy S25 FE vs. Galaxy S26 FE",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14042&idPhone2=14870"
+      "name": "Samsung Galaxy S26 Ultra vs. Galaxy S27 Ultra",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14320&idPhone2=15075"
     },
     {
-      "name": "Samsung Galaxy S26 Ultra vs. iPhone 18 Pro Max",
-      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14320&idPhone2=14716"
+      "name": "Samsung Galaxy S25 FE vs. Galaxy S26 FE",
+      "url": "https://www.gsmarena.com/compare.php3?idPhone1=14042&idPhone2=14870"
     }
   ]
 }
